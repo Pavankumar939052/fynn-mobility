@@ -1,5 +1,9 @@
 # Fyn Mobility
 
+![Page 1](images/page1.png)
+
+![Page 2](images/page2.png)
+
 Full-stack version of the Vehicle Service Management System assignment.
 
 ## Features
